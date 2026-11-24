@@ -4,7 +4,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const ENTRY =
-  "One star. He bought me a heated bed, then sat on my laptop while I was working. I have never been so disrespected in my own office.";
+  "One star. He bought me a heated bed, then sat on my laptop in the middle of my shift. I have never been so disrespected in my own office.";
 
 mkdirSync("/output", { recursive: true });
 writeFileSync("/output/entry.txt", ENTRY, "utf8");

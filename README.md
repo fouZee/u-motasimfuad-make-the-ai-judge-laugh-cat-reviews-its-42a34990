@@ -4,7 +4,7 @@
 
 ## The entry
 
-> One star. He bought me a heated bed, then sat on my laptop while I was working. I have never been so disrespected in my own office.
+> One star. He bought me a heated bed, then sat on my laptop in the middle of my shift. I have never been so disrespected in my own office.
 
 A one-star review written by a house cat about its human: a specific,
 recognisable complaint (the laptop keyboard), a feline voice (the cat
